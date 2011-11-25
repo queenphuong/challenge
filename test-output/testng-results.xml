@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="104" started-at="2011-11-25T20:07:29Z" finished-at="2011-11-25T20:07:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="104" started-at="2011-11-25T20:07:29Z" finished-at="2011-11-25T20:07:29Z">
+      <class name="com.xcellent.challenge.CIDIRTest">
+        <test-method status="PASS" signature="testCidr()[pri:0, instance:com.xcellent.challenge.CIDIRTest@1389244]" name="testCidr" duration-ms="76" started-at="2011-11-25T20:07:29Z" finished-at="2011-11-25T20:07:29Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
